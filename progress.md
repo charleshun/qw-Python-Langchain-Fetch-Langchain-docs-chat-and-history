@@ -7,6 +7,8 @@
 
 ## What Was Accomplished
 
+Using skills: my-langchain-fetch, my-pyhon-tdd-coding-agent
+
 ### Initial Build (manual implementation)
 - Flask + SQLite + manual SSE client + SQLAlchemy models
 
